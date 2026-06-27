@@ -4,12 +4,12 @@ Full-Stack Developer with experience building applications using Java, React, Ne
 Node.js, PostgreSQL, and MongoDB. Driven by engineering constraints around reliability,
 concurrency, security, and system correctness.
 
-Race-condition-free slot reservation by design — using atomic MongoDB operations.
+Race-condition-free slot reservation by design - using atomic MongoDB operations.
 Server-side payment verification instead of trusting the client. Balance mutations
 protected with Prisma transactions. Rate limiting keyed to user identity rather
 than IP, accounting for shared networks.
 
-> *The details matter. They always have—and that's exactly where I love to build.*
+> *The details matter. They always have - and that's exactly where I love to build.*
 
 ---
 
